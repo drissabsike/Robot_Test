@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.2.2 (Python 3.7.4 on win32)" generated="20210219 15:53:07.472" rpa="false">
+<robot generator="Robot 3.2.2 (Python 3.7.4 on win32)" generated="20210219 15:53:48.378" rpa="false">
 <suite id="s1" name="TestRobot" source="C:\developpement\robot-scripts\Robot_Test\Tests\Amazon\Amazon2\TestRobot.robot">
 <test id="s1-t1" name="Test case 1">
 <kw name="Log" library="BuiltIn">
@@ -7,12 +7,12 @@
 <arguments>
 <arg>I am case 1</arg>
 </arguments>
-<msg timestamp="20210219 15:53:07.675" level="INFO">I am case 1</msg>
-<status status="PASS" starttime="20210219 15:53:07.675" endtime="20210219 15:53:07.675"></status>
+<msg timestamp="20210219 15:53:48.596" level="INFO">I am case 1</msg>
+<status status="PASS" starttime="20210219 15:53:48.596" endtime="20210219 15:53:48.596"></status>
 </kw>
-<status status="PASS" starttime="20210219 15:53:07.675" endtime="20210219 15:53:07.690" critical="yes"></status>
+<status status="PASS" starttime="20210219 15:53:48.581" endtime="20210219 15:53:48.596" critical="yes"></status>
 </test>
-<status status="PASS" starttime="20210219 15:53:07.472" endtime="20210219 15:53:07.690"></status>
+<status status="PASS" starttime="20210219 15:53:48.378" endtime="20210219 15:53:48.596"></status>
 </suite>
 <statistics>
 <total>

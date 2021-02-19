@@ -11,6 +11,7 @@ User must sign in to check out
     [Documentation]  This is some basic about test
     [Tags]  Smoke2
     Open Browser  http://www.amazon.com  ${BROWSER}
+    Maximize Browser Window
     Sleep    3s
     Close Browser
 
